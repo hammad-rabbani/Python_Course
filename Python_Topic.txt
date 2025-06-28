@@ -1,0 +1,31 @@
+1. LANGUAGE FUNDAMENTALS
+	Introduction
+	Identifier
+	Data Type
+	Slicing of string
+	Type Casting
+
+2. Python Operator
+3. Input and Output statements
+4. python flow control part-1
+5. python flow control part-2
+6. Python string
+7. python data structure(List,tuple,set,dictionary)
+8. python function
+9. python modules
+10. python package
+11. python object oriented programming(opps)
+12. python exception handling
+13. python logging
+14. python assertions
+15. python file handling
+16. object serialization with pickle,json
+17. python decorators
+18. python generators
+
+
+
+
+
+
+
